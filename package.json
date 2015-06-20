@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/zwzw911/node-awesomeCaptcha/issues"
   },
-  "homepage": "https://github.com/zwzw911/node-awesomeCaptcha"
+  "homepage": "https://github.com/zwzw911/node-awesomeCaptcha",
   "main": "awesomeCaptcha.js",
   "devDependencies": {},
   "engines": {
