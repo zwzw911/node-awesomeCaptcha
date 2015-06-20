@@ -1,0 +1,29 @@
+{
+  "name": "zwzw911",
+  "version": "1.0.0",
+  "description": "generate captcha for Node",
+  "dependencies": {
+    "canvas":"^1.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zwzw911",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zwzw911/node-awesomeCaptcha"
+  },
+  "keywords": [
+    "captcha"
+  ],
+  "bugs": {
+    "url": "https://github.com/zwzw911/node-awesomeCaptcha/issues"
+  },
+  "homepage": "https://github.com/zwzw911/node-awesomeCaptcha"
+  "main": "awesomeCaptcha.js",
+  "devDependencies": {},
+  "engines": {
+    "node": "^0.10.35"
+  }  
+}
