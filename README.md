@@ -18,16 +18,18 @@ This example use default option, and generate a captcha which has the same heigh
         res.render('index',{captchaImgPath:path});
       })
     })
+the result looks like   
+![](https://github.com/zwzw911/node-awesomeCaptcha/blob/master/img/1434775573219.png)  
+
 Options
 ----------------
 The options divided into 3 parts:  
-1.  define the size of captcha 
-  
-2.  defien the appearance and color of captcha  
-  
-3.  define the file realted options if you choose to save captcha a png file  
+1.define the size of captcha 
 
-Lets start:  
+2.defien the appearance and color of captcha  
+
+3.define the file realted options if you choose to save captcha a png file  
+
 ####fontSize
 Number. The font size of character. Default is 20px.  
 ####size 
