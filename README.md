@@ -19,8 +19,10 @@ This example use default option, and generate a captcha which has the same heigh
 Options
 ----------------
 The options divided into 3 parts:  
-1.  define the size of captcha  
+1.  define the size of captcha 
+  
 2.  defien the appearance and color of captcha  
+  
 3.  define the file realted options if you choose to save captcha a png file  
 
 Lets start:  
@@ -29,5 +31,5 @@ Lets start:
 **width**: the width of captcha. Default is 80px.  
 **height**: the height of captcha. Default is 32px.  
   
-Node-awesomeCaptcha will calulate the required **width/height** based on **fontSize** and **size** automatically. Thus the final **width/height** maybe changed. For example, if you set **fontSize** to 48px, **size** to 6, **width/height** to 24px/60px. Apparently, such definition of **width/height** can't contain the defined **fontSize**. Thus, node-awesomeCaptcha will calucate a new **width/height** and overwrite the defined one to contain all 6 character with font size 48px.  
-So the best way to get a proper **width/height** is to set **fontSize/size** first, if the generated **width/height** exceed your requirement, then decrease  **width/height**.
+Node-awesomeCaptcha will calulate the required   `width/height`   based on `fontSize` and `size` automatically. Thus the final `width/height` maybe changed. For example, if you set`fontSize` to 48px, `size` to 6, `width/height` to 24px/60px. Apparently, such definition of `width/height` can't contain the defined `fontSize`. Thus, node-awesomeCaptcha will calucate a new `width/height` and overwrite the defined one to contain all 6 character with font size 48px.  
+So the best way to get a proper `width/height` is to set `fontSize/size` first, if the generated `width/height` exceed your requirement, then decrease  `fontSize/size`.
