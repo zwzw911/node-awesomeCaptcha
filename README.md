@@ -3,6 +3,8 @@ node-awesomeCaptcha
 Node-awesomeCaptcha utilize `node-canvas` to generate captcha. It provide a flexible options to generate captcha as you like. If you are lazy to configure the options, just pass empty object, a proper captcha generated  which match `bootstrap` input well. 
 installation
 ------------------
+Please make sure you have install `node-canvas` correctly. If not, please refer to [here](https://github.com/Automattic/node-canvas/wiki/_pages)  
+
     npm install node-awesomeCaptcha
     
 Example
