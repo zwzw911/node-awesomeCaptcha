@@ -64,5 +64,5 @@ Enum Number. Define the captcha mode.
 Default is 0.
 ####expireDuration
 Number. Defind the expirration of captcha, the unit is minute.Default is 1.
-####saveDir:__dirname
+####saveDir
 String. Only work whe `resultMode` set to 1. Define path to save png file. Default is __dirname, means the same directory of `Node-awesomCaptch`.
