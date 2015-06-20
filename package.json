@@ -1,5 +1,5 @@
 {
-  "name": "zwzw911",
+  "name": "node-awesomecaptcha",
   "version": "1.0.0",
   "description": "generate captcha for Node",
   "dependencies": {

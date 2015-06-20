@@ -5,7 +5,7 @@ installation
 ------------------
 Please make sure you have install `node-canvas` correctly. If not, please refer to [here](https://github.com/Automattic/node-canvas/wiki/_pages)  
 
-    npm install node-awesomeCaptcha
+    npm install node-awesomecaptcha
     
 Example
 -------------------
